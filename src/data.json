@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "name": "Aarav Gupta",
+            "email": "aarav.gupta@example.com"
+        },
+        {
+            "name": "Ishaan Patel",
+            "email": "ishaan.patel@example.com"
+        },
+        {
+            "name": "Aditi Shah",
+            "email": "aditi.shah@example.com"
+        },
+        {
+            "name": "Aaradhya Singh",
+            "email": "aaradhya.singh@example.com"
+        }
+    ]
+}
